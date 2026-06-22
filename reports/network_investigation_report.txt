@@ -1,0 +1,27 @@
+NETWORK TRAFFIC INVESTIGATION REPORT
+
+Summary
+Suspicious outbound HTTP traffic identified.
+
+Findings
+- Multiple connections to 185.220.101.1
+- DNS activity observed
+- Repeated outbound traffic pattern
+
+Severity
+High
+
+MITRE ATT&CK Mapping
+
+T1071
+Application Layer Protocol
+
+T1046
+Network Service Discovery
+
+Recommendations
+
+- Block suspicious IP
+- Investigate affected host
+- Review firewall logs
+- Monitor future outbound traffic

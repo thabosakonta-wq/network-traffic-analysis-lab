@@ -1,0 +1,19 @@
+Timestamp: 2026-06-22 19:00:01
+SourceIP: 192.168.1.10
+DestinationIP: 8.8.8.8
+Protocol: DNS
+
+Timestamp: 2026-06-22 19:01:15
+SourceIP: 192.168.1.10
+DestinationIP: 185.220.101.1
+Protocol: HTTP
+
+Timestamp: 2026-06-22 19:03:20
+SourceIP: 192.168.1.15
+DestinationIP: 192.168.1.1
+Protocol: HTTPS
+
+Timestamp: 2026-06-22 19:05:40
+SourceIP: 192.168.1.10
+DestinationIP: 185.220.101.1
+Protocol: HTTP
