@@ -82,20 +82,19 @@ Future Enhancements
 
 ---
 
-Screenshots
+## Screenshots
 
-Suspicious IP Detection
+### Suspicious IP Detection
 
-"Suspicious IP Detection" (screenshots/suspicious_ip_detection.png)
+![Suspicious IP Detection](screenshots/suspicious_ip_detections.png)
 
-DNS Traffic Detection
+### DNS Traffic Detection
 
-"DNS Detection" (screenshots/dns_detection.png)
+![DNS Detection](screenshots/dns_detection.png)
 
-HTTP Traffic Detection
+### HTTP Traffic Detection
 
-"HTTP Detection" (screenshots/http_detection.png)
-
+![HTTP Detection](screenshots/http_traffic_detection.png)
 ---
 
 Author
