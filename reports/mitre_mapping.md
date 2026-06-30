@@ -1,6 +1,6 @@
-MITRE ATT&CK Mapping - Network Traffic Analysis Lab
-
 # MITRE ATT&CK Mapping
+
+## Network Traffic Analysis Lab
 
 | Detection | MITRE Technique | Description |
 |------------|----------------|-------------|
