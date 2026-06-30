@@ -123,8 +123,6 @@ Network-Traffic-Analysis-Lab
 ![HTTP Detection](screenshots/http_traffic_detection.png)
 ---
 
-Author
-=======
 ## Author
 
 Thabo Sakonta
