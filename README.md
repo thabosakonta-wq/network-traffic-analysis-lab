@@ -42,7 +42,7 @@ Identifies outbound HTTP communications and suspicious web activity.
 
 ### HTTP Traffic Detection
 
-![HTTP Detection](screenshots/http_detection.png)
+![HTTP Detection](screenshots/http_traffic_detection.png)
 
 ---
 
