@@ -62,7 +62,7 @@ MITRE ATT&CK:
 - T1071.001 Web Protocols
 
 Severity:
-Medium
+High
 
 ---
 
