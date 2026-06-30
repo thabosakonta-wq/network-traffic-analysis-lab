@@ -126,7 +126,6 @@ Network-Traffic-Analysis-Lab
 Author
 =======
 ## Author
->>>>>>> c2bced7 (Fix screenshot references in README)
 
 Thabo Sakonta
 
