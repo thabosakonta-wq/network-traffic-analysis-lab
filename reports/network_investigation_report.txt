@@ -1,27 +1,48 @@
-NETWORK TRAFFIC INVESTIGATION REPORT
+Network Traffic Analysis Investigation Report
+
+Date: June 2026
 
 Summary
-Suspicious outbound HTTP traffic identified.
+-------
+The network traffic dataset was analyzed to identify suspicious communications, DNS activity, and outbound web traffic.
 
 Findings
-- Multiple connections to 185.220.101.1
-- DNS activity observed
-- Repeated outbound traffic pattern
+--------
 
-Severity
-High
+1. Suspicious External IP Communication
+Severity: Medium
+MITRE ATT&CK: T1071
 
-MITRE ATT&CK Mapping
+Multiple outbound connections were detected to external IP addresses.
 
-T1071
-Application Layer Protocol
+Recommendation:
+Investigate destination IP reputation and block if malicious.
 
-T1046
-Network Service Discovery
+------------------------------------------------
 
-Recommendations
+2. DNS Activity
+Severity: Medium
+MITRE ATT&CK: T1046
 
-- Block suspicious IP
-- Investigate affected host
-- Review firewall logs
-- Monitor future outbound traffic
+DNS requests were identified that could indicate reconnaissance activity.
+
+Recommendation:
+Review DNS query patterns and monitor for unusual domains.
+
+------------------------------------------------
+
+3. HTTP Communications
+Severity: Medium
+MITRE ATT&CK: T1071.001
+
+Outbound HTTP traffic was detected.
+
+Recommendation:
+Inspect destinations and validate legitimacy.
+
+Conclusion
+----------
+
+No confirmed compromise was identified.
+
+Further packet analysis is recommended.
